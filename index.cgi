@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 # Faroogh's personel pastebin service
-# Copyright (C) 2017  FarooghKZ <farooghkz@spams_come_here.openmailbox.org>
+# Copyright (C) 2017 FarooghKZ <farooghkz@openmailbox.org>
 
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as published by
